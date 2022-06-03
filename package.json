@@ -1,0 +1,17 @@
+{
+  "name": "mongoosepets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "devStart": "nodemon app.js"
+  },
+  "author": "Ori Guy",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.3.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
